@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.background": "#161515f4",
+        // "terminal.background": "1e2099f4",
+        "terminal.foreground": "#ffffffe7",
+        "terminalCursor.foreground": "#20e606e7",
+        "problemsErrorIcon.foreground": "#ff0000",
+        "editorHint.border": "#aaac3e",
+        "problemsInfoIcon.foreground": "#ff0000",
+        "list.errorForeground": "#ff0000"
+      },
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.fontLigatures": false,
+      
+  }
